@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7d65892d.css",
-    "main.js": "/portfolio/static/js/main.3238a099.js",
+    "main.js": "/portfolio/static/js/main.7c798f7a.js",
     "static/media/IMG_8002.jpg": "/portfolio/static/media/IMG_8002.c9b60696a484ef8330d2.jpg",
     "static/media/jathu_pic.png": "/portfolio/static/media/jathu_pic.0e1eeed5c0b2817ff82f.png",
     "static/media/traffic.png": "/portfolio/static/media/traffic.8e486c448837ba6c2622.png",
     "static/media/tournament.png": "/portfolio/static/media/tournament.ea5237b81277887ec4d7.png",
     "static/media/bank-img.png": "/portfolio/static/media/bank-img.208083c56b52934580d1.png",
-    "static/media/Jathavan_CV.pdf": "/portfolio/static/media/Jathavan_CV.71f7f961bddc133ad193.pdf",
+    "static/media/190249E_cv.pdf": "/portfolio/static/media/190249E_cv.c720d5e2f4c6d1073412.pdf",
     "static/media/issuer-img.png": "/portfolio/static/media/issuer-img.7afbefff204fa040840b.png",
     "static/media/mobile.png": "/portfolio/static/media/mobile.770a06e67e23c16e2a05.png",
     "static/media/airline.png": "/portfolio/static/media/airline.8e5dfc1ff1e6a7601293.png",
     "index.html": "/portfolio/index.html",
     "main.7d65892d.css.map": "/portfolio/static/css/main.7d65892d.css.map",
-    "main.3238a099.js.map": "/portfolio/static/js/main.3238a099.js.map"
+    "main.7c798f7a.js.map": "/portfolio/static/js/main.7c798f7a.js.map"
   },
   "entrypoints": [
     "static/css/main.7d65892d.css",
-    "static/js/main.3238a099.js"
+    "static/js/main.7c798f7a.js"
   ]
 }
